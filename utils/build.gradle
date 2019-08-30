@@ -21,9 +21,7 @@ plugins {
 dependencies {
     // Each project has a dependency on the platform
     api(platform(project(":platform")))
-    implementation(project(":lib"))
     api("com.google.cloud:google-cloud-vision:1.61.0")
-    //api("com.google.guava:guava:27.1-jre")
 }
 
 publishing {
