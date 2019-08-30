@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="src" path="/lib"/>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-vision/1.61.0/ffd3ab38c4109a082b2b70b883455f3f993a645a/google-cloud-vision-1.61.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-vision/1.61.0/9e735e558a09e5abab113e6f723d49030abdeeb0/google-cloud-vision-1.61.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-grpc/1.61.0/1c7e01a5f9d2bbec43f285313a06132ae390c942/google-cloud-core-grpc-1.61.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-grpc/1.61.0/c3ce1e4bcea8721387abff989a1e1ef696b2ddb9/google-cloud-core-grpc-1.61.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core/1.61.0/be820305547ca25c20626d06c7dbc59dc3586074/google-cloud-core-1.61.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core/1.61.0/4b1cd5a15a6677c7f706a20aa360ebfb0a394916/google-cloud-core-1.61.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1/1.43.0/ef3281e5ffd783ecb221412d1d84dfa1fd84a79d/proto-google-cloud-vision-v1-1.43.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1/1.43.0/de8e48fdf227821d016854671fc9d5ac8cbfdff9/proto-google-cloud-vision-v1-1.43.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1p1beta1/0.44.0/8c1f6545c5642a0e636a9830e1fd5466e6581924/proto-google-cloud-vision-v1p1beta1-0.44.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1p1beta1/0.44.0/d7cf9ab79a13a2b1c7cd175ec6f45f7cb7cc8a24/proto-google-cloud-vision-v1p1beta1-0.44.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1p2beta1/1.43.0/620ce25a793695765da0112ba384e66cbdb618a/proto-google-cloud-vision-v1p2beta1-1.43.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1p2beta1/1.43.0/fda06a11eeb9e270aaa56c8366beaa5d9d21094/proto-google-cloud-vision-v1p2beta1-1.43.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1p3beta1/0.44.0/bfdd3e43ae1301747626b38fb319b37b4259fd38/proto-google-cloud-vision-v1p3beta1-0.44.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-vision-v1p3beta1/0.44.0/920019ae8bdb8d169aa27552aed90dfc4e2bb90e/proto-google-cloud-vision-v1p3beta1-0.44.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api/gax-grpc/1.37.0/4f3230d943cee1be0aca4b7f14319dc2a82625b2/gax-grpc-1.37.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api/gax-grpc/1.37.0/1443adfa681aaa6e9e33cdfce2420965ae3983ba/gax-grpc-1.37.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.17.1/735762b9e73236086cbae3b451b5ebd642486d7f/grpc-netty-shaded-1.17.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty-shaded/1.17.1/3629761de2800e6dab395fa44b064160adcd8b/grpc-netty-shaded-1.17.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.17.1/2d8a65b2cf9738b96fd1b3a3c51c9ad142a3cb31/grpc-stub-1.17.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-stub/1.17.1/456090f1a3935fc869ba80b8429d750d4f3b05c4/grpc-stub-1.17.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-auth/1.17.1/78a4a51bb4a820d89d8781f5a1ecac2d4cc67ce6/grpc-auth-1.17.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-auth/1.17.1/68e38025da5e81f759638654320d908ad1800cb1/grpc-auth-1.17.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/ad18a02db08eaee697f812e333f692fc51129e4a/javax.annotation-api-1.2-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.github.dblock.waffle/waffle-jna/1.8.1/9b0e9ac93d6bb470fe5908ecda28871940b8987c/waffle-jna-1.8.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.github.dblock.waffle/waffle-jna/1.8.1/47206aa83d140fec9d17fdc5a780ea94baf6b5c4/waffle-jna-1.8.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api/gax/1.37.0/a83803013ee3b7456cc169ec8a6678fb8e15ce0d/gax-1.37.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api/gax/1.37.0/3be049d59f6cf5c79d986ad922cd2f23c3335a91/gax-1.37.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/0.12.0/13bdeda1d8cbcc01b39152129fa09bfb7ff4c6b0/proto-google-iam-v1-0.12.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/0.12.0/ea312c0250a5d0a7cdd1b20bc2c3259938b79855/proto-google-iam-v1-0.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api/api-common/1.7.0/ea3511ae369f8ac676ca35229483c67fee0b0789/api-common-1.7.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api/api-common/1.7.0/ea59fb8b2450999345035dec8a6f472543391766/api-common-1.7.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.6.1/eced0774e36d20dd06ddc6c800b3c6ab8d600ee/protobuf-java-util-3.6.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.6.1/35f62815e87c32b01bf1ed8c5aa3f9e33a08c2f3/protobuf-java-util-3.6.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.17.1/95237b08cf602d7214dcfee58ddc084d5d1520bf/grpc-protobuf-1.17.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.17.1/797b899fa461411414177368679fe37435e2b977/grpc-protobuf-1.17.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.17.1/6b5a50ee58b9c24503e05fb00030f6aa0bef483e/grpc-protobuf-lite-1.17.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf-lite/1.17.1/fb539b6c9f1e33a6ece97ed2a278d1d7c7a2f316/grpc-protobuf-lite-1.17.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.17.1/a25ab379922e0701b24f55de585d01e63e091ff4/grpc-core-1.17.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-core/1.17.1/bd3c50e6eb7d5024e56cb8737d98d2cc9e1ae4ef/grpc-core-1.17.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/0.12.0/252c678a4bd9947b1142a23fa98fe2c96d4e0a91/google-auth-library-oauth2-http-0.12.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/0.12.0/ec8e0c65d33895a9abbc6ebfdc3367546fbfac4f/google-auth-library-oauth2-http-0.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.27.0/19acd36acaf060910ced198c395d9c59265709f4/google-http-client-jackson2-1.27.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.27.0/25ee9240648b5dfd01a3385937bcf332b6f222a7/google-http-client-jackson2-1.27.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.27.0/4ab78d08b55b9c5fe9586f5ee318c35b76669ac5/google-http-client-1.27.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.27.0/52d6076f58edfedb55526c0cac4ba155c6dc645b/google-http-client-1.27.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/26.0-android/d77b633b56308a972029983a244f6bb9e24e1924/guava-26.0-android-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/26.0-android/ef69663836b339db335fde0df06fb3cd84e3742b/guava-26.0-android.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.2/95a8bd67d07e893710325efd4edd94b91f0d6bbf/joda-time-2.9.2-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.2/36d6e77a419cb455e6fd5909f6f96b168e21e9d0/joda-time-2.9.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/1.12.0/af18069b1d8368ffc8dce50a919df75f039cf507/proto-google-common-protos-1.12.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/1.12.0/1140cc74df039deb044ed0e320035e674dc13062/proto-google-common-protos-1.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/0.12.0/8a618ec77acecaf7294993bab7dca0a4e949c448/google-auth-library-credentials-0.12.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/0.12.0/ceaf7ed4743f4e54edc46598551b5368e5536553/google-auth-library-credentials-0.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/b0782bcd21ad5c52031e74efbc4c3d6a6df96130/protobuf-java-3.6.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/d06d46ecfd92ec6d0f3b423b4cd81cb38d8b924/protobuf-java-3.6.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.17.1/c44e2e6d7d11b9e7525e18853fa922feba929698/grpc-context-1.17.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.17.1/d3cdc589dae7324405223b8224d2a655572776d4/grpc-context-1.17.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/4.2.1/c4a785acf3d6e338de219b95f378c43297973491/jna-platform-4.2.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna-platform/4.2.1/440e1b36d1b68fb0360ebf66d9544c3f9d9f15ef/jna-platform-4.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.2.1/5f0a469ec2ecedc48c53fcc64be1728ade99ad08/jna-4.2.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.2.1/fcc5b10cb812c41b00708e7b57baccc3aee5567c/jna-4.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.14/76a9dee000b738e9fb18a5da4d9cd5e709618840/jcl-over-slf4j-1.7.14-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.14/2fba68ec8e05d4e399ca60f19cc69f0455e52bd3/jcl-over-slf4j-1.7.14.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.14/92d08f12e56087658ca5db6e067fad8a23083f0c/slf4j-api-1.7.14-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.14/862a5bc736005d68727d1387844d09d62efdb6cb/slf4j-api-1.7.14.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.5.2/420d8098e865794623d5e412445f8d2adea0bd54/checker-compat-qual-2.5.2-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-compat-qual/2.5.2/dc0b20906c9e4b9724af29d11604efa574066892/checker-compat-qual-2.5.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/a8cd7823aa1dcd2fd6677c0c5988fdde9d1fb0a3/error_prone_annotations-2.2.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/88e3c593e9b3586e1c6177f89267da6fc6986f0c/error_prone_annotations-2.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/1efdf5b737b02f9b72ebdec4f72c37ec411302ff/j2objc-annotations-1.1-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/8fb5b5ad9c9723951b9fccaba5bb657fa6064868/animal-sniffer-annotations-1.17-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/9fd59f6f22326a4241f9524fdfd66a1f34824054/httpclient-4.5.5-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.5/1603dfd56ebcd583ccdf337b6c3984ac55d89e58/httpclient-4.5.5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/dbca917b92624cc219df74ef5da110f451903511/threetenbp-1.3.3-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.threeten/threetenbp/1.3.3/3ea31c96676ff12ab56be0b1af6fff61d1a4f1f2/threetenbp-1.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/bbb63ca253b483da8ee53a50374593923e3de2e2/gson-2.7-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-grpc-metrics/0.17.0/67dda53a15c24e9e82c2d55f0aaef8805016620/opencensus-contrib-grpc-metrics-0.17.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-grpc-metrics/0.17.0/4b82972073361704f57fa2107910242f1143df25/opencensus-contrib-grpc-metrics-0.17.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.17.0/1351cbb6c0f1e7580adef73109cd25d25013cf70/opencensus-api-0.17.0-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.17.0/b9c91321f9c9f20f3a4627bfd9e3097164f85e6/opencensus-api-0.17.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/5808b4637c385d939e901eee3dc5f1121fc73a3b/httpcore-4.4.9-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.9/a86ce739e5a7175b4b234c290a00a5fdb80957a0/httpcore-4.4.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/11fb3d88ae7e3b757d70237064210ceb954a5a04/commons-codec-1.10-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.6/297b561cc2ca89e07bf4cb6445c08260b524aa4d/jackson-core-2.9.6-sources.jar" kind="lib" path="C:/Users/tguerin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.6/4e393793c37c77e042ccc7be5a914ae39251b365/jackson-core-2.9.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+</classpath>
